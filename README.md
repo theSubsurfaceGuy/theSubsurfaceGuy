@@ -1,8 +1,5 @@
-- Hi, I’m Waquar Kaleem a.k.a theSubSurfaceGuy!
-- I’m a Ph.D student majoring in Industrial Engineering and Operations Research
-- My advisor is Dr. Anirudh Subramanyam at the Pennsylvania State University
-- I’m looking to collaborate on developing mathematical optmization techniques for solving combinatorial optmization problems :) 
-- Reach out to me at kaleem_waquar@psu.edu 
+- Hello! My name is Waquar Kaleem, also known as theSubSurfaceGuy. I am a Ph.D. student majoring in Industrial Engineering and Operations Research. My doctoral advisor is Dr. Anirudh Subramanyam at the Pennsylvania State University.
+- I am currently seeking collaborators to work on using machine learning for combinatorial optimization related projects. Any suggestions or ideas are most welcome. Please feel free to contact me at kaleem_waquar@psu.edu.
 
 <!---
 theSubsurfaceGuy/theSubsurfaceGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
